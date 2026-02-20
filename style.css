@@ -1,0 +1,27 @@
+body {
+margin:0;
+background:black;
+color:cyan;
+text-align:center;
+font-family:monospace;
+overflow:hidden;
+}
+
+canvas {
+background:#111;
+display:block;
+margin:auto;
+border:2px solid cyan;
+}
+
+button{
+padding:10px 20px;
+background:black;
+color:cyan;
+border:2px solid cyan;
+font-size:16px;
+}
+
+.hidden{
+display:none;
+}
